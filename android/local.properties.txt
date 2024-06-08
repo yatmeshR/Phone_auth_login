@@ -1,0 +1,2 @@
+sdk.dir=/home/yatmesh/Android/Sdk
+flutter.sdk=/home/yatmesh/snap/flutter/common/flutter

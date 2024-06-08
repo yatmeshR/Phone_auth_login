@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323311198553",
+    "project_id": "dits-nexcom",
+    "storage_bucket": "dits-nexcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323311198553:android:75e98a07104782598dac48",
+        "android_client_info": {
+          "package_name": "com.example.dits_nexcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdWQZ6Qa1sr-3ZwQRQ6hk_ApVXDZPbo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
